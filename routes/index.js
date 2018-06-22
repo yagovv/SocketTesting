@@ -6,4 +6,8 @@ router.get('/', (req, res, next) => {
   res.render('index');
 });
 
+router.get('/createRoom', (req, res, next) => {
+  res.render('createRoom');
+});
+
 module.exports = router;

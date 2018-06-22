@@ -9,10 +9,14 @@ a {
   width: 80%; }
 
 .link {
-  margin: 20px;
+  margin: 40px 10px;
   background-color: #00B7FF;
   color: white;
   border-radius: 15px;
-  padding: 10px; }
+  padding: 10px;
+  text-decoration: none; }
+
+.main-form {
+  margin-bottom: 20px; }
 
 /*# sourceMappingURL=style.css.map */
